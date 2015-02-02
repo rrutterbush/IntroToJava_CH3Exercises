@@ -1,0 +1,37 @@
+Rodnie Rutterbush
+CIS 225 Intro To Java
+Chapter 3 Exercises
+
+
+
+EXERCISE 3.10 
+if ((varA && varB) || (!varA && !varB))
+    
+EXERCISE 3.11
+varA != varB
+    
+EXERCISE 3.12
+varA == varB
+
+EXERCISE 3.15
+The modulo operator calculates an interger division and returns only the remainder of the division.
+
+EXERCISE 3.16
+(8 % 3) = 2
+
+
+EXERCISE 3.20
+The increment method adds one to the interger value, and then returns the remainder of the intergers value, and limit using a modulo operator.
+The variable value is then re-initialized with that remainder.
+
+EXERCISE 3.21
+The modulo operator solution is better because it uses less space in system memory than the if statement solution. It also is visibly easier to follow.
+
+EXERCISE 3.24
+Call the timeTick method 60 times.
+Call the setTime method and enter 1 as the hour value, and 00 as the minute value.
+
+
+
+   
+
